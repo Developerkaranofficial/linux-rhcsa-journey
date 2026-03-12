@@ -1,5 +1,5 @@
 # Day 1 — Filesystem Navigation
-Date: March 2026
+Date: February 2026
 
 ## What I Learned Today
 The Linux filesystem starts from a single root directory called /
