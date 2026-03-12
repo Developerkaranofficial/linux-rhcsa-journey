@@ -17,7 +17,7 @@ Everything on the system lives inside this one tree structure.
 
 ## Commands I Used Today
 ```bash
-cat /etc/os-release   # shows what version of RHEL you are running
+cat /etc/os-release   # shows what version of Linux you are running
 whoami                # shows current logged in user
 hostname              # shows system hostname
 uname -a              # shows kernel and system information
@@ -28,7 +28,3 @@ man hier              # manual explaining filesystem hierarchy
 ## One Thing I Will Remember
 The Linux filesystem is one big tree. Everything
 hangs from / like branches from a trunk.
-```
-
-
-
